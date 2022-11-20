@@ -1,6 +1,4 @@
-1.Создаем файл : .gitignore; 
-2.Создаем .prettierrc.json(
-    {
+ {
   "printWidth": 100,
   "tabWidth": 2,
   "useTabs": false,
@@ -12,8 +10,3 @@
   "arrowParens": "avoid",
   "proseWrap": "always"
 }
-);
-3.Создаем папку images;
-4.Создаем файл index.html;
-
-
